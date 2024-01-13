@@ -163,9 +163,12 @@ def save_players_data(players_url):
         # print(radar)
 
         # 皮肤
-        rows = bs.find(id="cs2_skins").find_all('h4')
-        skins = {'skins' : [skin.text.strip() for skin in rows[1:]]}
-        # print(skins)
+        rows = (bs.find(id="cs2_skins"))
+        if rows:
+            rows = rows.find_all('h4')
+
+            skins = {'skins' : [skin.text.strip() for skin in rows[1:]]}
+            # print(skins)
 
         # 外设
         device = bs.find(id="gear").find_all(class_="cta-box__tag cta-box__tag--top-right")
@@ -177,24 +180,27 @@ def save_players_data(players_url):
         # 显示器设置
         game_set = {}
         game_settings = bs.find(id="game_settings")
+        if game_settings:
+            rows = game_settings.find('table')
+            if rows:
+                rows = rows.find_all('tr')
+                for row in rows:
+                    label = row.find_all('th')
+                    data = row.find_all('td')
+                    for la, da in zip(label, data):
+                        game_set[la.text.strip()] = da.text.strip()
 
-        rows = game_settings.find('table').find_all('tr')
-        for row in rows:
-            label = row.find_all('th')
-            data = row.find_all('td')
-            for la, da in zip(label, data):
-                game_set[la.text.strip()] = da.text.strip()
+                picture = bs.find(id="picture")
 
-        picture = bs.find(id="picture")
+                rows = picture.find('table').find_all('tr')
+                for row in rows:
+                    label = row.find_all('th')
+                    data = row.find_all('td')
+                    for la, da in zip(label, data):
+                        game_set[la.text.strip()] = da.text.strip()
+                # print(game_set)
 
-        rows = picture.find('table').find_all('tr')
-        for row in rows:
-            label = row.find_all('th')
-            data = row.find_all('td')
-            for la, da in zip(label, data):
-                game_set[la.text.strip()] = da.text.strip()
-        # print(game_set)
-
+        ####################################################################
         # info mouse crosshair viewmodel video hud radar skins gear game_set
         csv_file_path = 'data/{}.csv'.format(info['nick'])
 
@@ -226,7 +232,7 @@ def save_players_data(players_url):
 
 
 if __name__ == "__main__":
-    # test_url = ["https://prosettings.net/players/s1mple/", "https://prosettings.net/players/niko/"]
-    # save_players_data(test_url)
+    test_url = ["https://prosettings.net/players/s1mple/", "https://prosettings.net/players/niko/",'https://prosettings.net/players/scream/#cs2']
+    save_players_data(test_url)
 
-    save_players_data(get_players_url())
+    # save_players_data(get_players_url())

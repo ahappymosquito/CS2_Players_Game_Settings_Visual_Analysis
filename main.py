@@ -196,7 +196,6 @@ def save_players_data(players_url):
         # print(game_set)
 
 
-
         # info mouse crosshair viewmodel video hud radar skins gear game_set
         csv_file_path = 'data/{}.csv'.format(info['nick'])
 

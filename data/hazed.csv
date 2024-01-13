@@ -1,0 +1,65 @@
+设置,选项名称,值
+选手信息,nick,hazed
+选手信息,Name,James Cobb
+选手信息,Birthday,"May 22, 1989"
+选手信息,Country,United States
+选手信息,Team,Retired
+鼠标,model,Logitech G Pro X Superlight Black
+鼠标,DPI,400
+鼠标,Sensitivity,1.40
+鼠标,eDPI,560
+鼠标,Zoom Sensitivity,0.85
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Style,4
+准星设置,Follow Recoil,Unknown
+准星设置,Dot,0
+准星设置,Length,3
+准星设置,Thickness,0
+准星设置,Gap,-3
+准星设置,Outline,-2
+准星设置,Outlinethickness,Unknown
+准星设置,Color,1
+准星设置,Red,Unknown
+准星设置,Green,Unknown
+准星设置,Blue,Unknown
+准星设置,Alpha,Unknown
+准星设置,Alpha Value,255
+准星设置,T Style,Unknown
+准星设置,Deployed Weapon Gap,Unknown
+准星设置,Sniper Width,Unknown
+持枪 视角,FOV,60
+持枪 视角,Offset X,1
+持枪 视角,Offset Y,1
+持枪 视角,Offset Z,-1
+持枪 视角,Presetpos,1
+视频设置,Resolution,Unknown
+视频设置,Aspect Ratio,Unknown
+视频设置,Scaling Mode,Unknown
+视频设置,Brightness,Unknown
+视频设置,Display Mode,Unknown
+视频设置,Boost Player Contrast,Unknown
+视频设置,Wait for Vertical Sync,Unknown
+视频设置,Multisampling Anti-Aliasing Mode,Unknown
+视频设置,Global Shadow Quality,Unknown
+视频设置,Model / Texture Detail,Unknown
+视频设置,Texture Filtering Mode,Unknown
+视频设置,Shader Detail,Unknown
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.95
+界面 大小,HUD Color,Yellow
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,No
+雷达,Radar Hud Size,0.8
+雷达,Radar Map Zoom,0.58
+展示皮肤,skins,"['★ StatTrak™ Butterfly Knife | Slaughter (Factory New)', '★ Driver Gloves | Crimson Weave (Minimal Wear)', 'StatTrak™ AK-47 | Redline (Minimal Wear)', 'StatTrak™ M4A1-S | Cyrex (Minimal Wear)']"
+外设,Monitor,ASUS ROG SWIFT PG259QN
+外设,Mouse,Logitech G Pro X Superlight Black
+外设,Keyboard,Logitech G Pro X Keyboard
+外设,Headset,Logitech G Pro X Headset
+外设,Mousepad,Logitech G640 Original

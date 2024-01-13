@@ -1,0 +1,64 @@
+设置,选项名称,值
+选手信息,nick,MaiL09
+选手信息,Name,N/A
+选手信息,Birthday,N/A
+选手信息,Country,Sweden
+选手信息,Team,Young Gods
+鼠标,model,Xtrfy M8 Black
+鼠标,DPI,800
+鼠标,Sensitivity,0.7
+鼠标,eDPI,560
+鼠标,Zoom Sensitivity,1
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Style,4
+准星设置,Follow Recoil,Unknown
+准星设置,Dot,1
+准星设置,Length,0.291741
+准星设置,Thickness,1.614718
+准星设置,Gap,-5
+准星设置,Outline,1
+准星设置,Outlinethickness,Unknown
+准星设置,Color,4
+准星设置,Red,0
+准星设置,Green,150
+准星设置,Blue,150
+准星设置,Alpha,Unknown
+准星设置,Alpha Value,200
+准星设置,T Style,Unknown
+准星设置,Deployed Weapon Gap,Unknown
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1280x960
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,110%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Disabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,8x MSAA
+视频设置,Global Shadow Quality,Low
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Bilinear
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Low
+视频设置,Ambient Occlusion,Medium
+视频设置,High Dynamic Range,Quality
+视频设置,FidelityFX Super Resolution,Disabled (Highest Quality)
+视频设置,NVIDIA Reflex Low Latency,Enabled
+界面 大小,HUD Scale,0.85
+界面 大小,HUD Color,Team Color
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1
+雷达,Radar Map Zoom,0.7
+展示皮肤,skins,"['★ Butterfly Knife | Lore (Well-Worn)', '★ Driver Gloves | King Snake (Battle-Scarred)', 'AK-47 | Head Shot (Well-Worn)', 'M4A1-S | Printstream (Minimal Wear)', 'AWP | Asiimov (Battle-Scarred)', 'StatTrak™ Glock-18 | Water Elemental (Battle-Scarred)', 'USP-S | Printstream (Minimal Wear)', 'Desert Eagle | Blaze (Factory New)']"
+外设,Monitor,ASUS TUF VG279QM
+外设,Mouse,Xtrfy M8 Black
+外设,Keyboard,Xtrfy K4 TKL RGB White
+外设,Headset,Xtrfy H1

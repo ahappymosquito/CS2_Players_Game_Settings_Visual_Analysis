@@ -1,0 +1,65 @@
+设置,选项名称,值
+选手信息,nick,Smithzz
+选手信息,Name,Edouard Dubourdeaux
+选手信息,Birthday,"December 17, 1988"
+选手信息,Country,France
+选手信息,Team,Free Agent
+鼠标,model,VAXEE OUTSET AX Yellow
+鼠标,DPI,400
+鼠标,Sensitivity,1.88
+鼠标,eDPI,752
+鼠标,Zoom Sensitivity,0.80
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Style,2
+准星设置,Follow Recoil,Unknown
+准星设置,Dot,0
+准星设置,Length,2.5
+准星设置,Thickness,1
+准星设置,Gap,-3
+准星设置,Outline,0
+准星设置,Outlinethickness,Unknown
+准星设置,Color,4
+准星设置,Red,152
+准星设置,Green,0
+准星设置,Blue,200
+准星设置,Alpha,Unknown
+准星设置,Alpha Value,200
+准星设置,T Style,Unknown
+准星设置,Deployed Weapon Gap,Unknown
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1024x768
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,Unknown
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Unknown
+视频设置,Wait for Vertical Sync,Unknown
+视频设置,Multisampling Anti-Aliasing Mode,Unknown
+视频设置,Global Shadow Quality,Unknown
+视频设置,Model / Texture Detail,Unknown
+视频设置,Texture Filtering Mode,Unknown
+视频设置,Shader Detail,Unknown
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Enabled + Boost
+界面 大小,HUD Scale,Unknown
+界面 大小,HUD Color,Unknown
+雷达,Radar Centers The Player,Unknown
+雷达,Radar is Rotating,Unknown
+雷达,Toggle Shape With Scoreboard,Unknown
+雷达,Radar Hud Size,Unknown
+雷达,Radar Map Zoom,Unknown
+展示皮肤,skins,"['★ Flip Knife | Doppler Ruby (Factory New)', '★ Specialist Gloves | Crimson Kimono (Field-Tested)', 'AK-47 | Fire Serpent (Battle-Scarred)', 'M4A1-S | Printstream (Field-Tested)', 'AWP | Lightning Strike (Factory New)', 'Glock-18 | Candy Apple (Factory New)', 'USP-S | Blueprint (Minimal Wear)', 'Desert Eagle | Printstream (Factory New)']"
+外设,Monitor,ZOWIE XL2566K
+外设,Mouse,VAXEE OUTSET AX Yellow
+外设,Keyboard,Logitech G513
+外设,Headset,Logitech G Pro X Headset
+外设,Mousepad,VAXEE PA Y22

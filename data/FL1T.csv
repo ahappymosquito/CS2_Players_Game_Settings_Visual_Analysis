@@ -1,0 +1,75 @@
+设置,选项名称,值
+选手信息,nick,FL1T
+选手信息,Name,Evgeny Lebedev
+选手信息,Birthday,"December 20, 2000"
+选手信息,Country,Russia
+选手信息,Team,Virtus.pro
+鼠标,model,Logitech G Pro X Superlight Red
+鼠标,DPI,400
+鼠标,Sensitivity,1.55
+鼠标,eDPI,620
+鼠标,Zoom Sensitivity,1.00
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,255
+准星设置,Color,4
+准星设置,Blue,255
+准星设置,Green,255
+准星设置,Red,255
+准星设置,Dot,0
+准星设置,Gap,-3
+准星设置,Size,2
+准星设置,Style,4
+准星设置,Thickness,0
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1680x1050
+视频设置,Aspect Ratio,16:10
+视频设置,Scaling Mode,Black Bars
+视频设置,Brightness,80%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,4x MSAA
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Bilinear
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.85
+界面 大小,HUD Color,White
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1
+雷达,Radar Map Zoom,0.505
+展示皮肤,skins,"['★ Karambit | Gamma Doppler Emerald (Factory New)', '★ Specialist Gloves | Crimson Kimono (Minimal Wear)']"
+外设,Monitor,ZOWIE XL2546K
+外设,Mouse,Logitech G Pro X Superlight Red
+外设,Keyboard,Razer Huntsman V3 Pro TKL
+外设,Headset,HyperX Cloud II Gun Metal
+外设,Mousepad,SteelSeries QcK Heavy
+外设,Earphones,Logitech G333 White
+显示器设置,DyAc,Premium
+显示器设置,Black eQualizer,20
+显示器设置,Color Vibrance,10
+显示器设置,Low Blue Light,0
+显示器设置,Picture Mode,Gamer 1
+显示器设置,Brightness,100
+显示器设置,Contrast,70
+显示器设置,Sharpness,8
+显示器设置,Gamma,Gamma 3
+显示器设置,Color Temperature,User Define
+显示器设置,Red,100
+显示器设置,Green,100
+显示器设置,Blue,100
+显示器设置,AMA,High

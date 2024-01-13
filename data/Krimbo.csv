@@ -1,0 +1,60 @@
+设置,选项名称,值
+选手信息,nick,Krimbo
+选手信息,Name,Karim Moussa
+选手信息,Birthday,"September 26, 2002"
+选手信息,Country,Germany
+选手信息,Team,BIG
+鼠标,model,Logitech G Pro X Superlight 2 Black
+鼠标,DPI,400
+鼠标,Sensitivity,2.1
+鼠标,eDPI,840
+鼠标,Zoom Sensitivity,1
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,200
+准星设置,Color,2
+准星设置,Blue,165
+准星设置,Green,255
+准星设置,Red,0
+准星设置,Dot,0
+准星设置,Gap,-2
+准星设置,Size,3
+准星设置,Style,4
+准星设置,Thickness,1
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1280x960
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,130%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,8x MSAA
+视频设置,Global Shadow Quality,Very High
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Anisotropic 16x
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Medium
+视频设置,Ambient Occlusion,Disabled
+视频设置,High Dynamic Range,Quality
+视频设置,FidelityFX Super Resolution,Disabled (Highest Quality)
+视频设置,NVIDIA Reflex Low Latency,Enabled + Boost
+界面 大小,HUD Scale,0.8
+界面 大小,HUD Color,Team Color
+雷达,Radar Centers The Player,No
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1.3
+雷达,Radar Map Zoom,0.35
+展示皮肤,skins,"['★ Moto Gloves | POW! (Field-Tested)', '★ Butterfly Knife | Slaughter (Factory New)', 'StatTrak™ AK-47 | Red Laminate (Well-Worn)', 'M4A1-S | Printstream (Field-Tested)', 'AWP | Wildfire (Field-Tested)', 'StatTrak™ Glock-18 | Water Elemental (Minimal Wear)', 'StatTrak™ USP-S | Kill Confirmed (Well-Worn)', 'Desert Eagle | Blaze (Factory New)']"
+外设,Monitor,ZOWIE XL2566K
+外设,Mouse,Logitech G Pro X Superlight 2 Black
+外设,Keyboard,Corsair K70 RGB TKL
+外设,Headset,Corsair HS80
+外设,Mousepad,SteelSeries QcK Heavy

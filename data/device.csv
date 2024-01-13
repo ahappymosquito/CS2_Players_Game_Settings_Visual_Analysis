@@ -1,0 +1,75 @@
+设置,选项名称,值
+选手信息,nick,device
+选手信息,Name,Nicolai Reedtz
+选手信息,Birthday,"September 8, 1995"
+选手信息,Country,Denmark
+选手信息,Team,Astralis
+鼠标,model,Logitech G Pro X Superlight 2 White
+鼠标,DPI,400
+鼠标,Sensitivity,2.00
+鼠标,eDPI,800
+鼠标,Zoom Sensitivity,1.00
+鼠标,Hz,2000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,255
+准星设置,Color,5
+准星设置,Blue,170
+准星设置,Green,255
+准星设置,Red,0
+准星设置,Dot,1
+准星设置,Gap,-3
+准星设置,Size,1
+准星设置,Style,4
+准星设置,Thickness,0
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1280x960
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,95%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,2x MSAA
+视频设置,Global Shadow Quality,Medium
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Bilinear
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,1
+界面 大小,HUD Color,Team Color
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,No
+雷达,Radar Hud Size,0.9
+雷达,Radar Map Zoom,0.5
+展示皮肤,skins,"['★ M9 Bayonet | Doppler Sapphire (Factory New)', '★ Sport Gloves | Amphibious (Minimal Wear)', 'AK-47 | Wild Lotus (Field-Tested)', 'StatTrak™ M4A1-S | Printstream (Minimal Wear)', 'AWP | Dragon Lore (Factory New)', 'Glock-18 | Gamma Doppler Emerald (Factory New)', 'USP-S | Printstream (Factory New)', 'Desert Eagle | Printstream (Factory New)']"
+外设,Monitor,ZOWIE XL2566K
+外设,Mouse,Logitech G Pro X Superlight 2 White
+外设,Keyboard,Logitech G Pro X TKL Keyboard Black
+外设,Headset,Logitech G PRO X 2 Headset White
+外设,Mousepad,SteelSeries QcK Heavy
+外设,Earphones,KZ ZS10 Pro
+显示器设置,DyAc,Off
+显示器设置,Black eQualizer,12
+显示器设置,Color Vibrance,13
+显示器设置,Low Blue Light,0
+显示器设置,Picture Mode,Standard
+显示器设置,Brightness,99
+显示器设置,Contrast,50
+显示器设置,Sharpness,7
+显示器设置,Gamma,Gamma 3
+显示器设置,Color Temperature,User Define
+显示器设置,Red,100
+显示器设置,Green,100
+显示器设置,Blue,100
+显示器设置,AMA,High

@@ -1,0 +1,57 @@
+设置,选项名称,值
+选手信息,nick,maty
+选手信息,Name,Armandas Kneita
+选手信息,Birthday,N/A
+选手信息,Country,Lithuania
+选手信息,Team,Free Agent
+鼠标,model,ZOWIE EC2-B Divina Pink
+鼠标,DPI,400
+鼠标,Sensitivity,1.7
+鼠标,eDPI,680
+鼠标,Zoom Sensitivity,1.036211
+鼠标,Hz,Unknown
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,255
+准星设置,Color,4
+准星设置,Blue,50
+准星设置,Green,250
+准星设置,Red,50
+准星设置,Dot,1
+准星设置,Gap,-3
+准星设置,Size,1
+准星设置,Style,4
+准星设置,Thickness,0.50
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-2
+持枪 视角,Presetpos,0.5
+视频设置,Resolution,1152x864
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,80%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Disabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,8x MSAA
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,High
+视频设置,Texture Filtering Mode,Trilinear
+视频设置,Shader Detail,medium
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.85
+界面 大小,HUD Color,Team Color
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,0.83833
+雷达,Radar Map Zoom,0.4
+展示皮肤,skins,"['★ M9 Bayonet | Blue Steel (Minimal Wear)', '★ Moto Gloves | Polygon (Battle-Scarred)', 'AK-47 | Fire Serpent (Field-Tested)', 'AWP | POP AWP (Field-Tested)', 'Glock-18 | Vogue (Minimal Wear)', 'StatTrak™ USP-S | Cortex (Well-Worn)', 'StatTrak™ Desert Eagle | Blue Ply (Field-Tested)']"
+外设,Mouse,ZOWIE EC2-B Divina Pink
+外设,Headset,Logitech G Pro X Headset

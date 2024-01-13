@@ -1,0 +1,71 @@
+设置,选项名称,值
+选手信息,nick,Plopski
+选手信息,Name,Nicolas Gonzalez Zamora
+选手信息,Birthday,"May 14, 2002"
+选手信息,Country,Sweden
+选手信息,Team,GODSENT
+鼠标,model,Razer Deathadder V3 Pro Black
+鼠标,DPI,800
+鼠标,Sensitivity,1.50
+鼠标,eDPI,1200
+鼠标,Zoom Sensitivity,1.20
+鼠标,Hz,500
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,255
+准星设置,Color,0
+准星设置,Blue,255
+准星设置,Green,255
+准星设置,Red,0
+准星设置,Dot,0
+准星设置,Gap,-3
+准星设置,Size,2
+准星设置,Style,4
+准星设置,Thickness,0
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1920x1080
+视频设置,Aspect Ratio,16:9
+视频设置,Scaling Mode,Native
+视频设置,Brightness,130%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,4x MSAA
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,High
+视频设置,Texture Filtering Mode,Bilinear
+视频设置,Shader Detail,Unknown
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.851
+界面 大小,HUD Color,Green
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1.005
+雷达,Radar Map Zoom,0.355
+展示皮肤,skins,"['★ Butterfly Knife | Crimson Web (Factory New)', '★ Sport Gloves | Slingshot (Factory New)', 'AK-47 | Fire Serpent (Minimal Wear)', 'M4A1-S | Welcome to the Jungle (Factory New)', 'StatTrak™ AWP | Graphite (Factory New)', 'Glock-18 | Water Elemental (Minimal Wear)', 'StatTrak™ USP-S | Kill Confirmed (Factory New)', 'StatTrak™ Desert Eagle | Corinthian (Factory New)']"
+外设,Monitor,ZOWIE XL2546
+外设,Mouse,Razer Deathadder V3 Pro Black
+外设,Keyboard,Xtrfy K4 TKL RGB
+外设,Headset,Logitech G Pro X Headset
+外设,Mousepad,Xtrfy GP4 Street Blue
+显示器设置,DyAc,Premium
+显示器设置,Black eQualizer,12
+显示器设置,Color Vibrance,13
+显示器设置,Low Blue Light,0
+显示器设置,Picture Mode,FPS 1
+显示器设置,Brightness,80
+显示器设置,Contrast,40
+显示器设置,Sharpness,7
+显示器设置,Gamma,Gamma 3
+显示器设置,Color Temperature,Bluish
+显示器设置,AMA,Unknown

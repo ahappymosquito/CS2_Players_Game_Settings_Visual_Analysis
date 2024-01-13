@@ -1,0 +1,76 @@
+设置,选项名称,值
+选手信息,nick,story
+选手信息,Name,João Vieira
+选手信息,Birthday,"April 23, 2002"
+选手信息,Country,Portugal
+选手信息,Team,SAW
+鼠标,model,Logitech G Pro X Superlight Black
+鼠标,DPI,400
+鼠标,Sensitivity,2.75
+鼠标,eDPI,1100
+鼠标,Zoom Sensitivity,1
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Style,4
+准星设置,Follow Recoil,Unknown
+准星设置,Dot,0
+准星设置,Length,1.9
+准星设置,Thickness,0
+准星设置,Gap,-2.183126
+准星设置,Outline,0
+准星设置,Outlinethickness,Unknown
+准星设置,Color,5
+准星设置,Red,0
+准星设置,Green,255
+准星设置,Blue,0
+准星设置,Alpha,Unknown
+准星设置,Alpha Value,255
+准星设置,T Style,Unknown
+准星设置,Deployed Weapon Gap,Unknown
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1920x1080
+视频设置,Aspect Ratio,16:9
+视频设置,Scaling Mode,Native
+视频设置,Brightness,110%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,4x MSAA
+视频设置,Global Shadow Quality,Medium
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Bilinear
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.833
+界面 大小,HUD Color,White
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,0.83
+雷达,Radar Map Zoom,0.8
+展示皮肤,skins,"['★ Butterfly Knife | Gamma Doppler Phase 4 (Factory New)', '★ Sport Gloves | Vice (Battle-Scarred)', 'AK-47 | Neon Rider (Minimal Wear)', 'M4A4 | The Coalition (Minimal Wear)', 'AWP | Dragon Lore (Field-Tested)', 'Glock-18 | Water Elemental (Field-Tested)', 'USP-S | Kill Confirmed (Field-Tested)', 'Desert Eagle | Ocean Drive (Field-Tested)']"
+外设,Monitor,ZOWIE XL2546K
+外设,Mouse,Logitech G Pro X Superlight Black
+外设,Keyboard,Logitech G Pro X Keyboard
+外设,Headset,Logitech G Pro X Headset
+外设,Mousepad,VAXEE PA P22
+显示器设置,DyAc,Off
+显示器设置,Black eQualizer,10
+显示器设置,Color Vibrance,12
+显示器设置,Low Blue Light,0
+显示器设置,Picture Mode,Standard
+显示器设置,Brightness,95
+显示器设置,Contrast,60
+显示器设置,Sharpness,7
+显示器设置,Gamma,Gamma 3
+显示器设置,Color Temperature,Normal
+显示器设置,AMA,High

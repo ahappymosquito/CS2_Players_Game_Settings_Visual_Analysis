@@ -1,0 +1,65 @@
+设置,选项名称,值
+选手信息,nick,austin
+选手信息,Name,Austin Meadows
+选手信息,Birthday,N/A
+选手信息,Country,United States
+选手信息,Team,Content Creator
+鼠标,model,Razer Deathadder V3 Pro Black
+鼠标,DPI,2000
+鼠标,Sensitivity,0.26
+鼠标,eDPI,520
+鼠标,Zoom Sensitivity,1.2
+鼠标,Hz,4000
+鼠标,Windows Sensitivity,6
+准星设置,Style,4
+准星设置,Follow Recoil,Unknown
+准星设置,Dot,0
+准星设置,Length,1
+准星设置,Thickness,0.4
+准星设置,Gap,-1.5
+准星设置,Outline,1
+准星设置,Outlinethickness,Unknown
+准星设置,Color,5
+准星设置,Red,27
+准星设置,Green,195
+准星设置,Blue,144
+准星设置,Alpha,Unknown
+准星设置,Alpha Value,255
+准星设置,T Style,Unknown
+准星设置,Deployed Weapon Gap,Unknown
+准星设置,Sniper Width,1
+持枪 视角,FOV,64
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,0
+视频设置,Resolution,1280x1024
+视频设置,Aspect Ratio,5:4
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,80%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,4x MSAA
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,Very High
+视频设置,Texture Filtering Mode,Anisotropic 4x
+视频设置,Shader Detail,High
+视频设置,Particle Detail,High
+视频设置,Ambient Occlusion,Medium
+视频设置,High Dynamic Range,Quality
+视频设置,FidelityFX Super Resolution,Disabled (Highest Quality)
+视频设置,NVIDIA Reflex Low Latency,Enabled
+界面 大小,HUD Scale,Unknown
+界面 大小,HUD Color,Unknown
+雷达,Radar Centers The Player,Unknown
+雷达,Radar is Rotating,Unknown
+雷达,Toggle Shape With Scoreboard,Unknown
+雷达,Radar Hud Size,Unknown
+雷达,Radar Map Zoom,Unknown
+展示皮肤,skins,"['★ M9 Bayonet | Doppler Phase 2 (Factory New)', '★ Specialist Gloves | Fade (Field-Tested)']"
+外设,Monitor,ASUS ROG XG258Q
+外设,Mouse,Razer Deathadder V3 Pro Black
+外设,Keyboard,SteelSeries Apex 7 TKL
+外设,Headset,HyperX Cloud II
+外设,Mousepad,SteelSeries QcK Heavy

@@ -1,0 +1,76 @@
+设置,选项名称,值
+选手信息,nick,poka
+选手信息,Name,Kirill Starovoytov
+选手信息,Birthday,N/A
+选手信息,Country,Russia
+选手信息,Team,Free Agent
+鼠标,model,Logitech G Pro X Superlight White
+鼠标,DPI,800
+鼠标,Sensitivity,0.855
+鼠标,eDPI,684
+鼠标,Zoom Sensitivity,0.95
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Style,4
+准星设置,Follow Recoil,Unknown
+准星设置,Dot,0
+准星设置,Length,2
+准星设置,Thickness,0
+准星设置,Gap,-3
+准星设置,Outline,0
+准星设置,Outlinethickness,Unknown
+准星设置,Color,4
+准星设置,Red,-1000
+准星设置,Green,0
+准星设置,Blue,-1000
+准星设置,Alpha,Unknown
+准星设置,Alpha Value,255
+准星设置,T Style,Unknown
+准星设置,Deployed Weapon Gap,Unknown
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1280x960
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,81%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Disabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,2x MSAA
+视频设置,Global Shadow Quality,very_low
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Bilinear
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,Unknown
+界面 大小,HUD Color,Unknown
+雷达,Radar Centers The Player,Unknown
+雷达,Radar is Rotating,Unknown
+雷达,Toggle Shape With Scoreboard,Unknown
+雷达,Radar Hud Size,Unknown
+雷达,Radar Map Zoom,Unknown
+展示皮肤,skins,"['★ Karambit | Marble Fade (Factory New)', '★ Sport Gloves | Hedge Maze (Well-Worn)', 'StatTrak™ AK-47 | Slate (Factory New)', 'StatTrak™ M4A4 | The Emperor (Field-Tested)']"
+外设,Monitor,ZOWIE XL2540
+外设,Mouse,Logitech G Pro X Superlight White
+外设,Keyboard,Logitech G Pro X Keyboard
+外设,Headset,Logitech G Pro X Headset
+外设,Mousepad,Aunkere Gear Tokyo Ghoul
+显示器设置,DyAc,Unknown
+显示器设置,Black eQualizer,7
+显示器设置,Color Vibrance,12
+显示器设置,Low Blue Light,0
+显示器设置,Picture Mode,Gamer 1
+显示器设置,Brightness,100
+显示器设置,Contrast,55
+显示器设置,Sharpness,7
+显示器设置,Gamma,Gamma 2
+显示器设置,Color Temperature,Normal
+显示器设置,AMA,High

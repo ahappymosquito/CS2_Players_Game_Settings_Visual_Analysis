@@ -1,0 +1,60 @@
+设置,选项名称,值
+选手信息,nick,JOTA
+选手信息,Name,Jhonatan Willian
+选手信息,Birthday,"February 2, 1998"
+选手信息,Country,Brazil
+选手信息,Team,Los Grandes
+鼠标,model,ZOWIE EC3-CW
+鼠标,DPI,800
+鼠标,Sensitivity,2.5
+鼠标,eDPI,2000
+鼠标,Zoom Sensitivity,1
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,255
+准星设置,Color,1
+准星设置,Blue,255
+准星设置,Green,255
+准星设置,Red,255
+准星设置,Dot,0
+准星设置,Gap,-2
+准星设置,Size,1
+准星设置,Style,4
+准星设置,Thickness,0
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1280x960
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,130%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Unknown
+视频设置,Wait for Vertical Sync,Unknown
+视频设置,Multisampling Anti-Aliasing Mode,Unknown
+视频设置,Global Shadow Quality,Unknown
+视频设置,Model / Texture Detail,Unknown
+视频设置,Texture Filtering Mode,Unknown
+视频设置,Shader Detail,Unknown
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,Unknown
+界面 大小,HUD Color,Unknown
+雷达,Radar Centers The Player,Unknown
+雷达,Radar is Rotating,Unknown
+雷达,Toggle Shape With Scoreboard,Unknown
+雷达,Radar Hud Size,Unknown
+雷达,Radar Map Zoom,Unknown
+展示皮肤,skins,"['★ Butterfly Knife | Doppler Phase 2 (Factory New)', '★ Sport Gloves | Vice (Field-Tested)', 'AK-47 | Neon Rider (Field-Tested)', 'USP-S | Cortex (Field-Tested)', 'Galil AR | Sugar Rush (Minimal Wear)', 'MAC-10 | Neon Rider (Minimal Wear)', 'AWP | Hyper Beast (Minimal Wear)', 'M4A1-S | Decimator (Factory New)', 'MP9 | Mount Fuji (Factory New)', 'Tec-9 | Decimator (Field-Tested)', 'SSG 08 | Fever Dream (Minimal Wear)', 'Desert Eagle | Ocean Drive (Field-Tested)', 'Glock-18 | Neo-Noir (Minimal Wear)', 'UMP-45 | Moonrise (Minimal Wear)', 'FAMAS | Pulse (Field-Tested)', 'Five-SeveN | Fairy Tale (Factory New)', 'P250 | Vino Primo (Field-Tested)']"
+外设,Monitor,Alienware AW2521H
+外设,Mouse,ZOWIE EC3-CW
+外设,Keyboard,HyperX Alloy FPS
+外设,Headset,HyperX Cloud II
+外设,Mousepad,SteelSeries QcK Heavy

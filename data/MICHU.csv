@@ -1,0 +1,76 @@
+设置,选项名称,值
+选手信息,nick,MICHU
+选手信息,Name,Michał Müller
+选手信息,Birthday,"December 29, 1996"
+选手信息,Country,Poland
+选手信息,Team,IKLA
+鼠标,model,Razer Deathadder V3 Pro Black
+鼠标,DPI,800
+鼠标,Sensitivity,0.47
+鼠标,eDPI,376
+鼠标,Zoom Sensitivity,0.85
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Style,6
+准星设置,Follow Recoil,Unknown
+准星设置,Dot,1
+准星设置,Length,5.000
+准星设置,Thickness,0.000
+准星设置,Gap,0.000
+准星设置,Outline,0
+准星设置,Outlinethickness,Unknown
+准星设置,Color,5
+准星设置,Red,0
+准星设置,Green,0
+准星设置,Blue,0
+准星设置,Alpha,Unknown
+准星设置,Alpha Value,255
+准星设置,T Style,Unknown
+准星设置,Deployed Weapon Gap,Unknown
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1280x960
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,80%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,2x MSAA
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,Medium
+视频设置,Texture Filtering Mode,Trilinear
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Medium
+视频设置,Ambient Occlusion,Medium
+视频设置,High Dynamic Range,Quality
+视频设置,FidelityFX Super Resolution,Disabled (Highest Quality)
+视频设置,NVIDIA Reflex Low Latency,Enabled + Boost
+界面 大小,HUD Scale,0.7
+界面 大小,HUD Color,Bright White
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1.3
+雷达,Radar Map Zoom,0.47
+展示皮肤,skins,"['★ M9 Bayonet | Gamma Doppler Phase 2 (Factory New)', '★ Specialist Gloves | Emerald Web (Well-Worn)', 'StatTrak™ AK-47 | Asiimov (Field-Tested)', 'StatTrak™ M4A4 | Hellfire (Minimal Wear)', 'AWP | Hyper Beast (Minimal Wear)', 'Glock-18 | Weasel (Minimal Wear)', 'StatTrak™ USP-S | Cyrex (Factory New)', 'Desert Eagle | Code Red (Well-Worn)']"
+外设,Monitor,ZOWIE XL2546K
+外设,Mouse,Razer Deathadder V3 Pro Black
+外设,Keyboard,Razer BlackWidow V3 TKL
+外设,Headset,EPOS H6PRO White
+外设,Mousepad,ZOWIE G-SR
+显示器设置,DyAc,Off
+显示器设置,Black eQualizer,6
+显示器设置,Color Vibrance,16
+显示器设置,Low Blue Light,0
+显示器设置,Picture Mode,FPS 1
+显示器设置,Brightness,60
+显示器设置,Contrast,65
+显示器设置,Sharpness,10
+显示器设置,Gamma,Gamma 2
+显示器设置,Color Temperature,Bluish
+显示器设置,AMA,High

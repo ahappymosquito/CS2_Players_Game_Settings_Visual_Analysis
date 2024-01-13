@@ -1,0 +1,65 @@
+设置,选项名称,值
+选手信息,nick,xseveN
+选手信息,Name,Sami Laasanen
+选手信息,Birthday,"August 14, 1994"
+选手信息,Country,Finland
+选手信息,Team,Retired
+鼠标,model,VAXEE ZYGEN NP-01S
+鼠标,DPI,800
+鼠标,Sensitivity,0.90
+鼠标,eDPI,720
+鼠标,Zoom Sensitivity,1.00
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Style,4
+准星设置,Follow Recoil,Unknown
+准星设置,Dot,0
+准星设置,Length,2.5
+准星设置,Thickness,0.5
+准星设置,Gap,-4.5
+准星设置,Outline,0
+准星设置,Outlinethickness,Unknown
+准星设置,Color,5
+准星设置,Red,64
+准星设置,Green,0
+准星设置,Blue,255
+准星设置,Alpha,Unknown
+准星设置,Alpha Value,250
+准星设置,T Style,Unknown
+准星设置,Deployed Weapon Gap,Unknown
+准星设置,Sniper Width,1
+持枪 视角,FOV,62
+持枪 视角,Offset X,0.5
+持枪 视角,Offset Y,1
+持枪 视角,Offset Z,-1
+持枪 视角,Presetpos,1
+视频设置,Resolution,1680x1050
+视频设置,Aspect Ratio,16:10
+视频设置,Scaling Mode,Black Bars
+视频设置,Brightness,80%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,8x MSAA
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Anisotropic 8x
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.95
+界面 大小,HUD Color,White
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1
+雷达,Radar Map Zoom,0.3025
+展示皮肤,skins,"['★ Bayonet | Lore (Minimal Wear)', '★ Hand Wraps | Cobalt Skulls (Well-Worn)', 'StatTrak™ AK-47 | Redline (Minimal Wear)', 'M4A4 | In Living Color (Factory New)', 'AWP | Asiimov (Battle-Scarred)', 'USP-S | Ticket to Hell (Factory New)', 'Glock-18 | Blue Fissure (Field-Tested)', 'Desert Eagle | Emerald Jörmungandr (Factory New)']"
+外设,Monitor,ASUS ROG SWIFT PG259QN
+外设,Mouse,VAXEE ZYGEN NP-01S
+外设,Keyboard,Ducky One 2 TKL
+外设,Headset,Logitech G Pro X Headset
+外设,Mousepad,Artisan Hayate Otsu Soft

@@ -1,0 +1,71 @@
+设置,选项名称,值
+选手信息,nick,headtr1ck
+选手信息,Name,Danyyl Valitov
+选手信息,Birthday,"June 30, 2004"
+选手信息,Country,Ukraine
+选手信息,Team,Ninjas in Pyjamas
+鼠标,model,Logitech G Pro X Superlight White
+鼠标,DPI,400
+鼠标,Sensitivity,2.3
+鼠标,eDPI,920
+鼠标,Zoom Sensitivity,1
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,255
+准星设置,Color,1
+准星设置,Blue,255
+准星设置,Green,0
+准星设置,Red,0
+准星设置,Dot,1
+准星设置,Gap,-3
+准星设置,Size,2
+准星设置,Style,4
+准星设置,Thickness,0
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1280x960
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,130%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,8x MSAA
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Bilinear
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Low
+视频设置,Ambient Occlusion,Disabled
+视频设置,High Dynamic Range,Quality
+视频设置,FidelityFX Super Resolution,Disabled (Highest Quality)
+视频设置,NVIDIA Reflex Low Latency,Enabled
+界面 大小,HUD Scale,1
+界面 大小,HUD Color,Light Blue
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,0.845
+雷达,Radar Map Zoom,0.45
+展示皮肤,skins,"['★ StatTrak™ Butterfly Knife | Doppler Sapphire (Factory New)', '★ Specialist Gloves | Emerald Web (Well-Worn)', 'StatTrak™ AK-47 | Point Disarray (Field-Tested)', 'M4A1-S | Blood Tiger (Factory New)', 'AWP | Graphite (Minimal Wear)', 'Glock-18 | Moonrise (Minimal Wear)', 'USP-S | Cyrex (Field-Tested)', 'Desert Eagle | Code Red (Field-Tested)']"
+外设,Monitor,ZOWIE XL2546K
+外设,Mouse,Logitech G Pro X Superlight White
+外设,Keyboard,Razer Huntsman V3 Pro TKL
+外设,Headset,Razer BlackShark V2
+外设,Mousepad,SteelSeries QcK Heavy
+显示器设置,DyAc,Off
+显示器设置,Black eQualizer,0
+显示器设置,Color Vibrance,15
+显示器设置,Low Blue Light,0
+显示器设置,Picture Mode,Gamer 2
+显示器设置,Brightness,95
+显示器设置,Contrast,50
+显示器设置,Sharpness,5
+显示器设置,Gamma,Gamma 2
+显示器设置,Color Temperature,Normal
+显示器设置,AMA,High

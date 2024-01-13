@@ -1,0 +1,59 @@
+设置,选项名称,值
+选手信息,nick,day0s
+选手信息,Name,Paul Niel
+选手信息,Birthday,N/A
+选手信息,Country,France
+选手信息,Team,Free Agent
+鼠标,model,VAXEE ZYGEN NP-01S
+鼠标,DPI,400
+鼠标,Sensitivity,1.57
+鼠标,eDPI,628
+鼠标,Zoom Sensitivity,1
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,255
+准星设置,Color,4
+准星设置,Blue,164
+准星设置,Green,255
+准星设置,Red,0
+准星设置,Dot,0
+准星设置,Gap,-3
+准星设置,Size,1
+准星设置,Style,4
+准星设置,Thickness,1
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1280x960
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,93%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,4x MSAA
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,High
+视频设置,Texture Filtering Mode,Anisotropic 4x
+视频设置,Shader Detail,High
+视频设置,Particle Detail,Medium
+视频设置,Ambient Occlusion,Disabled
+视频设置,High Dynamic Range,Quality
+视频设置,FidelityFX Super Resolution,Disabled (Highest Quality)
+视频设置,NVIDIA Reflex Low Latency,Enabled
+界面 大小,HUD Scale,0.85
+界面 大小,HUD Color,Team Color
+雷达,Radar Centers The Player,No
+雷达,Radar is Rotating,No
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1.00
+雷达,Radar Map Zoom,0.7
+展示皮肤,skins,"['★ Butterfly Knife | Fade (Factory New)', '★ Sport Gloves | Vice (Minimal Wear)', 'AK-47 | Fuel Injector (Factory New)', 'M4A4 | Magnesium (Minimal Wear)', 'AWP | Dragon Lore (Factory New)', 'Glock-18 | Clear Polymer (Minimal Wear)', 'USP-S | Ticket to Hell (Field-Tested)', 'Desert Eagle | Cobalt Disruption (Factory New)']"
+外设,Mouse,VAXEE ZYGEN NP-01S
+外设,Keyboard,Razer Huntsman Elite
+外设,Headset,HyperX Cloud II
+外设,Mousepad,VAXEE PA Black

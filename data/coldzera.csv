@@ -1,0 +1,71 @@
+设置,选项名称,值
+选手信息,nick,coldzera
+选手信息,Name,Marcelo David
+选手信息,Birthday,"October 31, 1994"
+选手信息,Country,Brazil
+选手信息,Team,Legacy
+鼠标,model,Logitech G Pro X Superlight 2 White
+鼠标,DPI,800
+鼠标,Sensitivity,1.10
+鼠标,eDPI,880
+鼠标,Zoom Sensitivity,1
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,1
+准星设置,Alpha,255
+准星设置,Color,4
+准星设置,Blue,165
+准星设置,Green,255
+准星设置,Red,0
+准星设置,Dot,0
+准星设置,Gap,-3
+准星设置,Size,1
+准星设置,Style,4
+准星设置,Thickness,1
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,1
+持枪 视角,Offset Y,1
+持枪 视角,Offset Z,-1
+持枪 视角,Presetpos,1
+视频设置,Resolution,1280x1024
+视频设置,Aspect Ratio,5:4
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,91%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,4x MSAA
+视频设置,Global Shadow Quality,Very High
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Bilinear
+视频设置,Shader Detail,High
+视频设置,Particle Detail,Low
+视频设置,Ambient Occlusion,Disabled
+视频设置,High Dynamic Range,Quality
+视频设置,FidelityFX Super Resolution,Disabled (Highest Quality)
+视频设置,NVIDIA Reflex Low Latency,Disabled
+界面 大小,HUD Scale,0.95
+界面 大小,HUD Color,Team Color
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1
+雷达,Radar Map Zoom,0.45
+展示皮肤,skins,"['★ Talon Knife | Doppler Ruby (Factory New)', '★ Specialist Gloves | Crimson Kimono (Minimal Wear)', 'StatTrak™ AK-47 | Fire Serpent (Minimal Wear)']"
+外设,Monitor,ZOWIE XL2546
+外设,Mouse,Logitech G Pro X Superlight 2 White
+外设,Keyboard,Logitech G Pro X TKL Keyboard White
+外设,Headset,Logitech G PRO X 2 Headset White
+外设,Mousepad,Logitech G740
+显示器设置,DyAc,Premium
+显示器设置,Black eQualizer,10
+显示器设置,Color Vibrance,13
+显示器设置,Low Blue Light,0
+显示器设置,Picture Mode,FPS 1
+显示器设置,Brightness,100
+显示器设置,Contrast,70
+显示器设置,Sharpness,7
+显示器设置,Gamma,Gamma 3
+显示器设置,Color Temperature,Bluish
+显示器设置,AMA,Premium

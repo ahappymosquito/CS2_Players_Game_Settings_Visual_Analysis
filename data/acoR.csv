@@ -1,0 +1,60 @@
+设置,选项名称,值
+选手信息,nick,acoR
+选手信息,Name,Frederik Gyldstrand
+选手信息,Birthday,"June 24, 1997"
+选手信息,Country,Denmark
+选手信息,Team,GamerLegion
+鼠标,model,VAXEE OUTSET AX Wireless Yellow
+鼠标,DPI,400
+鼠标,Sensitivity,1.82
+鼠标,eDPI,728
+鼠标,Zoom Sensitivity,1.00
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,1000
+准星设置,Color,1
+准星设置,Blue,0
+准星设置,Green,0
+准星设置,Red,0
+准星设置,Dot,0
+准星设置,Gap,-3
+准星设置,Size,2.5
+准星设置,Style,4
+准星设置,Thickness,1
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1024x768
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Black Bars
+视频设置,Brightness,83%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,CMAA2
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,Medium
+视频设置,Texture Filtering Mode,Bilinear
+视频设置,Shader Detail,High
+视频设置,Particle Detail,Low
+视频设置,Ambient Occlusion,Disabled
+视频设置,High Dynamic Range,Quality
+视频设置,FidelityFX Super Resolution,Disabled (Highest Quality)
+视频设置,NVIDIA Reflex Low Latency,Enabled + Boost
+界面 大小,HUD Scale,0.95
+界面 大小,HUD Color,Team Color
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1.100754
+雷达,Radar Map Zoom,0.48127
+展示皮肤,skins,"['★ Karambit | Fade (Factory New)', '★ Driver Gloves | Black Tie (Field-Tested)', 'AK-47 | Gold Arabesque (Field-Tested)', 'StatTrak™ M4A1-S | Cyrex (Minimal Wear)', 'StatTrak™ AWP | Atheris (Minimal Wear)', 'Glock-18 | High Beam (Factory New)', 'StatTrak™ USP-S | Flashback (Factory New)', 'Desert Eagle | Sputnik (Field-Tested)']"
+外设,Monitor,ZOWIE XL2566K
+外设,Mouse,VAXEE OUTSET AX Wireless Yellow
+外设,Keyboard,Razer Huntsman V3 Pro TKL
+外设,Headset,Razer BlackShark V2
+外设,Mousepad,SteelSeries QcK Heavy

@@ -1,0 +1,60 @@
+设置,选项名称,值
+选手信息,nick,maxster
+选手信息,Name,Max Jansson
+选手信息,Birthday,N/A
+选手信息,Country,Sweden
+选手信息,Team,Young Ninjas
+鼠标,model,ZOWIE EC1-CW
+鼠标,DPI,800
+鼠标,Sensitivity,0.68
+鼠标,eDPI,544
+鼠标,Zoom Sensitivity,0.8
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,255
+准星设置,Color,5
+准星设置,Blue,127
+准星设置,Green,0
+准星设置,Red,255
+准星设置,Dot,1
+准星设置,Gap,-2
+准星设置,Size,1
+准星设置,Style,4
+准星设置,Thickness,0
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1280x960
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,119%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,8x MSAA
+视频设置,Global Shadow Quality,Unknown
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Anisotropic 4x
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.95
+界面 大小,HUD Color,Green
+雷达,Radar Centers The Player,No
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,No
+雷达,Radar Hud Size,1
+雷达,Radar Map Zoom,0.4
+展示皮肤,skins,"['★ Skeleton Knife | Blue Steel (Well-Worn)', '★ Sport Gloves | Pandora’s Box (Battle-Scarred)', 'StatTrak™ AK-47 | Neon Rider (Field-Tested)', 'M4A1-S | Blue Phosphor (Factory New)', 'AWP | The Prince (Factory New)', 'Glock-18 | Gamma Doppler Phase 2 (Factory New)', 'USP-S | Target Acquired (Factory New)', 'StatTrak™ Desert Eagle | Cobalt Disruption (Factory New)']"
+外设,Monitor,Acer XF250Q
+外设,Mouse,ZOWIE EC1-CW
+外设,Keyboard,Razer Blackwidow V3
+外设,Headset,Razer BlackShark V2
+外设,Mousepad,Zowie G-SR II

@@ -1,0 +1,65 @@
+设置,选项名称,值
+选手信息,nick,dennis
+选手信息,Name,Dennis Edman
+选手信息,Birthday,"January 7, 1991"
+选手信息,Country,Sweden
+选手信息,Team,Retired
+鼠标,model,Razer Deathadder V3 Pro Black
+鼠标,DPI,400
+鼠标,Sensitivity,2.00
+鼠标,eDPI,800
+鼠标,Zoom Sensitivity,0.80
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Style,4
+准星设置,Follow Recoil,Unknown
+准星设置,Dot,0
+准星设置,Length,4
+准星设置,Thickness,0.05
+准星设置,Gap,0
+准星设置,Outline,0
+准星设置,Outlinethickness,Unknown
+准星设置,Color,1
+准星设置,Red,250
+准星设置,Green,0
+准星设置,Blue,250
+准星设置,Alpha,Unknown
+准星设置,Alpha Value,255
+准星设置,T Style,Unknown
+准星设置,Deployed Weapon Gap,Unknown
+准星设置,Sniper Width,Unknown
+持枪 视角,FOV,65
+持枪 视角,Offset X,2
+持枪 视角,Offset Y,1.5
+持枪 视角,Offset Z,-1
+持枪 视角,Presetpos,0
+视频设置,Resolution,1024x768
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,Unknown
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Unknown
+视频设置,Wait for Vertical Sync,Unknown
+视频设置,Multisampling Anti-Aliasing Mode,Unknown
+视频设置,Global Shadow Quality,Unknown
+视频设置,Model / Texture Detail,Unknown
+视频设置,Texture Filtering Mode,Unknown
+视频设置,Shader Detail,Unknown
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.95
+界面 大小,HUD Color,Bright White
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,No
+雷达,Radar Hud Size,0.965
+雷达,Radar Map Zoom,0.7
+展示皮肤,skins,"['★ Butterfly Knife | Doppler Ruby (Factory New)', '★ Specialist Gloves | Crimson Kimono (Field-Tested)', 'StatTrak™ AK-47 | Vulcan (Minimal Wear)', 'M4A4 | Howl (Minimal Wear)', 'AWP | Dragon Lore (Well-Worn)', 'Glock-18 | Fade (Factory New)', 'StatTrak™ USP-S | Neo-Noir (Factory New)', 'Desert Eagle | Blaze (Factory New)']"
+外设,Monitor,ASUS ROG SWIFT PG259QN
+外设,Mouse,Razer Deathadder V3 Pro Black
+外设,Keyboard,Razer Huntsman V2 TKL
+外设,Headset,Razer BlackShark V2 Pro
+外设,Mousepad,Razer Gigantus Elite

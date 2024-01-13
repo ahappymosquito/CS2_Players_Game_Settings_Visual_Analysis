@@ -1,0 +1,60 @@
+设置,选项名称,值
+选手信息,nick,Maniac
+选手信息,Name,Mathieu Quiquerez
+选手信息,Birthday,"June 29, 1990"
+选手信息,Country,Switzerland
+选手信息,Team,Content Creator
+鼠标,model,Logitech G Pro X Superlight Black
+鼠标,DPI,800
+鼠标,Sensitivity,1.05
+鼠标,eDPI,840
+鼠标,Zoom Sensitivity,1.00
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,255
+准星设置,Color,4
+准星设置,Blue,255
+准星设置,Green,0
+准星设置,Red,1
+准星设置,Dot,1
+准星设置,Gap,-2
+准星设置,Size,1
+准星设置,Style,5
+准星设置,Thickness,0
+准星设置,Sniper Width,Unknown
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1920x1080
+视频设置,Aspect Ratio,16:9
+视频设置,Scaling Mode,Native
+视频设置,Brightness,Unknown
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Unknown
+视频设置,Wait for Vertical Sync,Unknown
+视频设置,Multisampling Anti-Aliasing Mode,Unknown
+视频设置,Global Shadow Quality,Unknown
+视频设置,Model / Texture Detail,Unknown
+视频设置,Texture Filtering Mode,Unknown
+视频设置,Shader Detail,Unknown
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,Unknown
+界面 大小,HUD Color,Unknown
+雷达,Radar Centers The Player,Unknown
+雷达,Radar is Rotating,Unknown
+雷达,Toggle Shape With Scoreboard,Unknown
+雷达,Radar Hud Size,Unknown
+雷达,Radar Map Zoom,Unknown
+展示皮肤,skins,"['★ Karambit | Doppler Phase 3 (Factory New)', '★ Moto Gloves | Spearmint (Field-Tested)', 'AK-47 | Cartel (Minimal Wear)', 'Souvenir M4A1-S | Master Piece (Field-Tested)', 'AWP | POP AWP (Factory New)', 'Glock-18 | Fade (Factory New)', 'USP-S | The Traitor (Field-Tested)', 'Desert Eagle | Printstream (Battle-Scarred)']"
+外设,Monitor,ASUS ROG SWIFT PG259QN
+外设,Mouse,Logitech G Pro X Superlight Black
+外设,Keyboard,Logitech G Pro Keyboard
+外设,Headset,Logitech G Pro X Wireless Headset
+外设,Mousepad,Logitech G640 Original

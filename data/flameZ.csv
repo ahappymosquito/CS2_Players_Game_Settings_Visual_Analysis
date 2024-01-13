@@ -1,0 +1,73 @@
+设置,选项名称,值
+选手信息,nick,flameZ
+选手信息,Name,Shahar Shushan
+选手信息,Birthday,"June 22, 2003"
+选手信息,Country,Israel
+选手信息,Team,Team Vitality
+鼠标,model,ZOWIE EC2-CW
+鼠标,DPI,400
+鼠标,Sensitivity,3.60
+鼠标,eDPI,1440
+鼠标,Zoom Sensitivity,1.10
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Color,4
+准星设置,Blue,0
+准星设置,Green,0
+准星设置,Red,0
+准星设置,Dot,1
+准星设置,Gap,-1
+准星设置,Size,1.00
+准星设置,Style,5
+准星设置,Thickness,0.00
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1280x960
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,115%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,8x MSAA
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Bilinear
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.85
+界面 大小,HUD Color,Bright White
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,0.8
+雷达,Radar Map Zoom,1.00
+展示皮肤,skins,"['★ Stiletto Knife | Marble Fade (Factory New)', '★ Specialist Gloves | Crimson Kimono (Well-Worn)', 'AK-47 | Wild Lotus (Field-Tested)', 'M4A1-S | Blue Phosphor (Factory New)', 'AWP | Asiimov (Field-Tested)', 'StatTrak™ Glock-18 | Off World (Minimal Wear)', 'USP-S | Orion (Minimal Wear)', 'Desert Eagle | Blaze (Factory New)']"
+外设,Monitor,ZOWIE XL2566K
+外设,Mouse,ZOWIE EC2-CW
+外设,Keyboard,Xtrfy K5 Compact RGB Black
+外设,Headset,Logitech G Pro X Headset
+外设,Mousepad,Xtrfy GP4
+显示器设置,DyAc,Off
+显示器设置,Black eQualizer,9
+显示器设置,Color Vibrance,15
+显示器设置,Low Blue Light,0
+显示器设置,Picture Mode,FPS 1
+显示器设置,Brightness,45
+显示器设置,Contrast,40
+显示器设置,Sharpness,10
+显示器设置,Gamma,Gamma 3
+显示器设置,Color Temperature,User Define
+显示器设置,Red,100
+显示器设置,Green,100
+显示器设置,Blue,100
+显示器设置,AMA,High

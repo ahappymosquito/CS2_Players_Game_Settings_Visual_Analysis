@@ -77,12 +77,11 @@ def save_players_data(players_url):
                 info[la.text.strip()] = da.text.strip()
         # print(info)
 
-
         # 鼠标设置
         mouse = {}
         cs2_mouse = bs.find(id="cs2_mouse")
-        model = cs2_mouse.find('h4').text
-        mouse['model'] = model
+        if cs2_mouse.find('h4'):
+            mouse['model'] = cs2_mouse.find('h4').text
 
         rows = cs2_mouse.find('table').find_all('tr')
         for row in rows:
@@ -163,19 +162,19 @@ def save_players_data(players_url):
         # print(radar)
 
         # 皮肤
-        rows = (bs.find(id="cs2_skins"))
-        if rows:
-            rows = rows.find_all('h4')
+        if bs.find(id="cs2_skins"):
+            rows = bs.find(id="cs2_skins").find_all('h4')
 
-            skins = {'skins' : [skin.text.strip() for skin in rows[1:]]}
+            skins = {'skins': [skin.text.strip() for skin in rows[1:]]}
             # print(skins)
 
         # 外设
-        device = bs.find(id="gear").find_all(class_="cta-box__tag cta-box__tag--top-right")
-        rows = bs.find(id="gear").find_all('h4')
-        # gear = [skin.text.strip() for skin in rows]
-        gear = {device.text.strip(): name.text.strip() for device, name in zip(device, rows)}
-        # print(gear)
+        if bs.find(id="gear"):
+            device = bs.find(id="gear").find_all(class_="cta-box__tag cta-box__tag--top-right")
+            rows = bs.find(id="gear").find_all('h4')
+            # gear = [skin.text.strip() for skin in rows]
+            gear = {device.text.strip(): name.text.strip() for device, name in zip(device, rows)}
+            # print(gear)
 
         # 显示器设置
         game_set = {}
@@ -204,7 +203,7 @@ def save_players_data(players_url):
         # info mouse crosshair viewmodel video hud radar skins gear game_set
         csv_file_path = 'data/{}.csv'.format(info['nick'])
 
-        with open(csv_file_path, 'w', newline='',encoding='utf-8') as csv_file:
+        with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
             csv_writer = csv.writer(csv_file)
 
             # 写入表头（第一行）
@@ -232,7 +231,7 @@ def save_players_data(players_url):
 
 
 if __name__ == "__main__":
-    test_url = ["https://prosettings.net/players/s1mple/", "https://prosettings.net/players/niko/",'https://prosettings.net/players/scream/#cs2']
-    save_players_data(test_url)
+    # test_url = ["https://prosettings.net/players/s1mple/", "https://prosettings.net/players/niko/",'https://prosettings.net/players/scream/#cs2']
+    # save_players_data(test_url)
 
-    # save_players_data(get_players_url())
+    save_players_data(get_players_url())

@@ -1,0 +1,60 @@
+设置,选项名称,值
+选手信息,nick,hutji
+选手信息,Name,Pavel Lashkov
+选手信息,Birthday,"September 13, 1995"
+选手信息,Country,Russia
+选手信息,Team,Free Agent
+鼠标,model,ZOWIE ZA12
+鼠标,DPI,800
+鼠标,Sensitivity,1.10
+鼠标,eDPI,880
+鼠标,Zoom Sensitivity,1.00
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,Unknown
+准星设置,Color,1
+准星设置,Blue,Unknown
+准星设置,Green,Unknown
+准星设置,Red,Unknown
+准星设置,Dot,0
+准星设置,Gap,-2
+准星设置,Size,3
+准星设置,Style,4
+准星设置,Thickness,1.15
+准星设置,Sniper Width,Unknown
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1280x960
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,Unknown
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Unknown
+视频设置,Wait for Vertical Sync,Unknown
+视频设置,Multisampling Anti-Aliasing Mode,Unknown
+视频设置,Global Shadow Quality,Unknown
+视频设置,Model / Texture Detail,Unknown
+视频设置,Texture Filtering Mode,Unknown
+视频设置,Shader Detail,Unknown
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,Unknown
+界面 大小,HUD Color,Unknown
+雷达,Radar Centers The Player,Unknown
+雷达,Radar is Rotating,Unknown
+雷达,Toggle Shape With Scoreboard,Unknown
+雷达,Radar Hud Size,Unknown
+雷达,Radar Map Zoom,Unknown
+展示皮肤,skins,"['★ Butterfly Knife | Tiger Tooth (Factory New)', '★ Hand Wraps | CAUTION! (Minimal Wear)', 'AK-47 | Case Hardened (Factory New)', 'M4A1-S | Blue Phosphor (Factory New)', 'Souvenir AWP | Desert Hydra (Factory New)', 'Glock-18 | Fade (Factory New)', 'Souvenir USP-S | Royal Blue (Factory New)', 'Desert Eagle | Blaze (Factory New)']"
+外设,Monitor,ZOWIE XL2546
+外设,Mouse,ZOWIE ZA12
+外设,Keyboard,HyperX Alloy FPS
+外设,Headset,HyperX Cloud II
+外设,Mousepad,ZOWIE G-SR

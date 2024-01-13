@@ -1,0 +1,65 @@
+设置,选项名称,值
+选手信息,nick,lowel
+选手信息,Name,Christian Garcia Antoran
+选手信息,Birthday,"December 11, 1996"
+选手信息,Country,Spain
+选手信息,Team,Free Agent
+鼠标,model,Logitech G Pro X Superlight Black
+鼠标,DPI,400
+鼠标,Sensitivity,2.15
+鼠标,eDPI,860
+鼠标,Zoom Sensitivity,1
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Style,4
+准星设置,Follow Recoil,Unknown
+准星设置,Dot,1
+准星设置,Length,1.5
+准星设置,Thickness,1
+准星设置,Gap,-2
+准星设置,Outline,0
+准星设置,Outlinethickness,Unknown
+准星设置,Color,4
+准星设置,Red,Unknown
+准星设置,Green,Unknown
+准星设置,Blue,Unknown
+准星设置,Alpha,Unknown
+准星设置,Alpha Value,200
+准星设置,T Style,Unknown
+准星设置,Deployed Weapon Gap,Unknown
+准星设置,Sniper Width,Unknown
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,Unknown
+视频设置,Aspect Ratio,Unknown
+视频设置,Scaling Mode,Unknown
+视频设置,Brightness,Unknown
+视频设置,Display Mode,Unknown
+视频设置,Boost Player Contrast,Unknown
+视频设置,Wait for Vertical Sync,Unknown
+视频设置,Multisampling Anti-Aliasing Mode,Unknown
+视频设置,Global Shadow Quality,Unknown
+视频设置,Model / Texture Detail,Unknown
+视频设置,Texture Filtering Mode,Unknown
+视频设置,Shader Detail,Unknown
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.95
+界面 大小,HUD Color,Green
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,No
+雷达,Radar Hud Size,1.155
+雷达,Radar Map Zoom,0.4
+展示皮肤,skins,"['★ StatTrak™ Butterfly Knife | Slaughter (Factory New)', '★ Driver Gloves | Crimson Weave (Minimal Wear)', 'StatTrak™ AK-47 | Redline (Minimal Wear)', 'StatTrak™ M4A1-S | Cyrex (Minimal Wear)']"
+外设,Monitor,ZOWIE XL2566K
+外设,Mouse,Logitech G Pro X Superlight Black
+外设,Keyboard,Razer Huntsman V2 TKL
+外设,Headset,Logitech G Pro X Wireless Headset
+外设,Mousepad,Gamesense Radar

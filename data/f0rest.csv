@@ -1,0 +1,71 @@
+设置,选项名称,值
+选手信息,nick,f0rest
+选手信息,Name,Patrik Lindberg
+选手信息,Birthday,"June 10, 1988"
+选手信息,Country,Sweden
+选手信息,Team,Free Agent
+鼠标,model,Xtrfy MZ1 Wireless
+鼠标,DPI,400
+鼠标,Sensitivity,3.50
+鼠标,eDPI,1400
+鼠标,Zoom Sensitivity,1.00
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,255
+准星设置,Color,5
+准星设置,Blue,255
+准星设置,Green,255
+准星设置,Red,255
+准星设置,Dot,1
+准星设置,Gap,-5
+准星设置,Size,1
+准星设置,Style,5
+准星设置,Thickness,0
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1920x1080
+视频设置,Aspect Ratio,16:9
+视频设置,Scaling Mode,Native
+视频设置,Brightness,80%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,8x MSAA
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,Medium
+视频设置,Texture Filtering Mode,Bilinear
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Low
+视频设置,Ambient Occlusion,Disabled
+视频设置,High Dynamic Range,Performance
+视频设置,FidelityFX Super Resolution,Disabled (Highest Quality)
+视频设置,NVIDIA Reflex Low Latency,Enabled
+界面 大小,HUD Scale,0.95
+界面 大小,HUD Color,Bright White
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1
+雷达,Radar Map Zoom,0.5
+展示皮肤,skins,"['★ M9 Bayonet | Rust Coat (Well-Worn)', '★ Hand Wraps | Slaughter (Battle-Scarred)', 'AK-47 | Bloodsport (Minimal Wear)', 'M4A1-S | Mecha Industries (Factory New)', 'AWP | Dragon Lore (Field-Tested)', 'Glock-18 | Candy Apple (Minimal Wear)', 'USP-S | Kill Confirmed (Field-Tested)', 'Desert Eagle | Mecha Industries (Factory New)']"
+外设,Monitor,ZOWIE XL2546K
+外设,Mouse,Xtrfy MZ1 Wireless
+外设,Keyboard,Xtrfy K5 Compact RGB
+外设,Headset,HyperX Cloud II Wireless
+外设,Mousepad,Xtrfy GPZ1
+显示器设置,DyAc,Premium
+显示器设置,Black eQualizer,10
+显示器设置,Color Vibrance,10
+显示器设置,Low Blue Light,0
+显示器设置,Picture Mode,FPS 1
+显示器设置,Brightness,100
+显示器设置,Contrast,50
+显示器设置,Sharpness,6
+显示器设置,Gamma,Gamma 3
+显示器设置,Color Temperature,Bluish
+显示器设置,AMA,High

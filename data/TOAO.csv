@@ -1,0 +1,60 @@
+设置,选项名称,值
+选手信息,nick,TOAO
+选手信息,Name,Mateusz Zawistowski
+选手信息,Birthday,"October 7, 1996"
+选手信息,Country,Poland
+选手信息,Team,Illuminar
+鼠标,model,Razer Deathadder V3 Pro White
+鼠标,DPI,800
+鼠标,Sensitivity,1.10
+鼠标,eDPI,880
+鼠标,Zoom Sensitivity,1.03
+鼠标,Hz,4000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,1
+准星设置,Alpha,255
+准星设置,Color,1
+准星设置,Blue,50
+准星设置,Green,250
+准星设置,Red,50
+准星设置,Dot,0
+准星设置,Gap,-1
+准星设置,Size,2
+准星设置,Style,4
+准星设置,Thickness,0
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,2
+持枪 视角,Offset Z,2
+持枪 视角,Presetpos,-2
+视频设置,Resolution,1024x768
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Black Bars
+视频设置,Brightness,Unknown
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Unknown
+视频设置,Wait for Vertical Sync,Unknown
+视频设置,Multisampling Anti-Aliasing Mode,Unknown
+视频设置,Global Shadow Quality,Unknown
+视频设置,Model / Texture Detail,Unknown
+视频设置,Texture Filtering Mode,Unknown
+视频设置,Shader Detail,Unknown
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.7
+界面 大小,HUD Color,Blue
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1
+雷达,Radar Map Zoom,0.3
+展示皮肤,skins,"['★ Karambit | Crimson Web (Field-Tested)', 'StatTrak™ AK-47 | Slate (Minimal Wear)', 'M4A1-S | Decimator (Minimal Wear)', 'AWP | Wildfire (Minimal Wear)', 'Glock-18 | Clear Polymer (Factory New)', 'USP-S | Blueprint (Factory New)', 'Desert Eagle | Code Red (Minimal Wear)']"
+外设,Monitor,ZOWIE XL2546K
+外设,Mouse,Razer Deathadder V3 Pro White
+外设,Keyboard,Ozone Gaming Strike Battle
+外设,Headset,Sennheiser GAME ZERO
+外设,Mousepad,ZOWIE G-SR

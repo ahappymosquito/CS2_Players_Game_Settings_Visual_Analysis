@@ -1,0 +1,59 @@
+设置,选项名称,值
+选手信息,nick,nython
+选手信息,Name,Gabriel Lino
+选手信息,Birthday,"October 10, 1997"
+选手信息,Country,Brazil
+选手信息,Team,Paquetá Gaming
+鼠标,model,Logitech G Pro X Superlight Black
+鼠标,DPI,800
+鼠标,Sensitivity,1.2
+鼠标,eDPI,960
+鼠标,Zoom Sensitivity,1.1
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,255
+准星设置,Color,5
+准星设置,Blue,165
+准星设置,Green,255
+准星设置,Red,0
+准星设置,Dot,0
+准星设置,Gap,-3
+准星设置,Size,1.5
+准星设置,Style,4
+准星设置,Thickness,1
+准星设置,Sniper Width,2
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,2
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,0
+视频设置,Resolution,1280x1024
+视频设置,Aspect Ratio,5:4
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,110%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,8x MSAA
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Bilinear
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.644418
+界面 大小,HUD Color,Red
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1.051037
+雷达,Radar Map Zoom,0.502803
+展示皮肤,skins,"['★ Skeleton Knife | Blue Steel (Field-Tested)', '★ Hand Wraps | Cobalt Skulls (Well-Worn)', 'StatTrak™ AK-47 | Frontside Misty (Field-Tested)', 'M4A1-S | Hot Rod (Factory New)', 'AWP | Neo-Noir (Field-Tested)', 'Glock-18 | Water Elemental (Field-Tested)', 'USP-S | Neo-Noir (Field-Tested)', 'Desert Eagle | Kumicho Dragon (Field-Tested)']"
+外设,Monitor,ZOWIE XL2546K
+外设,Mouse,Logitech G Pro X Superlight Black
+外设,Keyboard,Logitech G Pro X Keyboard
+外设,Mousepad,ZOWIE G-SR-SE Deep Blue

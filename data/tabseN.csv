@@ -1,0 +1,61 @@
+设置,选项名称,值
+选手信息,nick,tabseN
+选手信息,Name,Johannes Wodarz
+选手信息,Birthday,"April 5, 1995"
+选手信息,Country,Germany
+选手信息,Team,BIG
+鼠标,model,Logitech G Pro X Superlight Black
+鼠标,DPI,400
+鼠标,Sensitivity,1.28
+鼠标,eDPI,512
+鼠标,Zoom Sensitivity,1.10
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,1
+准星设置,Alpha,255
+准星设置,Color,1
+准星设置,Blue,255
+准星设置,Green,255
+准星设置,Red,255
+准星设置,Dot,0
+准星设置,Gap,-1
+准星设置,Size,0.5
+准星设置,Style,4
+准星设置,Thickness,0
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1280x960
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,130%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,CMAA2
+视频设置,Global Shadow Quality,Very High
+视频设置,Model / Texture Detail,Medium
+视频设置,Texture Filtering Mode,Anisotropic 16x
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Low
+视频设置,Ambient Occlusion,High
+视频设置,High Dynamic Range,Quality
+视频设置,FidelityFX Super Resolution,Disabled (Highest Quality)
+视频设置,NVIDIA Reflex Low Latency,Enabled + Boost
+界面 大小,HUD Scale,0.95
+界面 大小,HUD Color,Green
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1
+雷达,Radar Map Zoom,0.35
+展示皮肤,skins,"['★ Bayonet | Gamma Doppler Emerald (Factory New)', '★ Bloodhound Gloves | Charred (Minimal Wear)', 'StatTrak™ AK-47 | Asiimov (Field-Tested)', 'M4A1-S | Hot Rod (Factory New)', 'AWP | Asiimov (Field-Tested)', 'Glock-18 | Fade (Factory New)', 'StatTrak™ USP-S | Blueprint (Factory New)', 'Desert Eagle | Blaze (Factory New)']"
+外设,Monitor,ASUS ROG SWIFT PG259QN
+外设,Mouse,Logitech G Pro X Superlight Black
+外设,Keyboard,Logitech G715
+外设,Headset,Corsair Void Pro White
+外设,Mousepad,THEWHALE X LA ONDA RIZZ Extra Soft Black
+外设,Earphones,Hörluchs HL7 Gaming Edition

@@ -1,0 +1,70 @@
+设置,选项名称,值
+选手信息,nick,BnTeT
+选手信息,Name,Hansel Ferdinand
+选手信息,Birthday,"August 28, 1995"
+选手信息,Country,Indonesia
+选手信息,Team,Team NKT
+鼠标,model,Logitech G Pro X Superlight White
+鼠标,DPI,810
+鼠标,Sensitivity,1.10
+鼠标,eDPI,668.25
+鼠标,Zoom Sensitivity,1.1
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,5
+准星设置,Drawoutline,0
+准星设置,Color,2
+准星设置,Blue,50
+准星设置,Green,250
+准星设置,Red,50
+准星设置,Dot,0
+准星设置,Gap,0
+准星设置,Size,2.5
+准星设置,Style,4
+准星设置,Thickness,0.5
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1024x768
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Black Bars
+视频设置,Brightness,130%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Disabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,None
+视频设置,Global Shadow Quality,very_low
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Bilinear
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.8465
+界面 大小,HUD Color,Team Color
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1
+雷达,Radar Map Zoom,0.7
+展示皮肤,skins,"['★ Butterfly Knife | Doppler Ruby (Factory New)', '★ Sport Gloves | Omega (Field-Tested)', 'StatTrak™ AK-47 | Fire Serpent (Minimal Wear)', 'M4A4 | Howl (Factory New)', 'AWP | Hyper Beast (Minimal Wear)', 'USP-S | Kill Confirmed (Factory New)', 'Glock-18 | Wasteland Rebel (Factory New)', 'Desert Eagle | Code Red (Minimal Wear)']"
+外设,Monitor,ZOWIE XL2546
+外设,Mouse,Logitech G Pro X Superlight White
+外设,Keyboard,SteelSeries Apex Pro
+外设,Headset,HyperX Cloud II
+外设,Mousepad,SteelSeries QcK Heavy
+显示器设置,DyAc,Premium
+显示器设置,Black eQualizer,0
+显示器设置,Color Vibrance,0
+显示器设置,Low Blue Light,10
+显示器设置,Picture Mode,Standard
+显示器设置,Brightness,30
+显示器设置,Contrast,30
+显示器设置,Sharpness,8
+显示器设置,Gamma,Gamma 3
+显示器设置,Color Temperature,Normal
+显示器设置,AMA,Premium

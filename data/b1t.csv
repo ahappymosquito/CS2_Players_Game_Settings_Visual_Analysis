@@ -11,22 +11,17 @@
 鼠标,Zoom Sensitivity,1
 鼠标,Hz,2000
 鼠标,Windows Sensitivity,6
-准星设置,Style,4
-准星设置,Follow Recoil,Unknown
-准星设置,Dot,0
-准星设置,Length,2
-准星设置,Thickness,0
-准星设置,Gap,-3
-准星设置,Outline,0
-准星设置,Outlinethickness,Unknown
+准星设置,Drawoutline,0
+准星设置,Alpha,255
 准星设置,Color,4
-准星设置,Red,0
-准星设置,Green,238
 准星设置,Blue,144
-准星设置,Alpha,Unknown
-准星设置,Alpha Value,255
-准星设置,T Style,Unknown
-准星设置,Deployed Weapon Gap,Unknown
+准星设置,Green,238
+准星设置,Red,0
+准星设置,Dot,0
+准星设置,Gap,-3
+准星设置,Size,2
+准星设置,Style,4
+准星设置,Thickness,0
 准星设置,Sniper Width,1
 持枪 视角,FOV,68
 持枪 视角,Offset X,2.5

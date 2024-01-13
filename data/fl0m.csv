@@ -1,0 +1,60 @@
+设置,选项名称,值
+选手信息,nick,fl0m
+选手信息,Name,Erik Flom
+选手信息,Birthday,"September 14, 1992"
+选手信息,Country,United States
+选手信息,Team,Mythic
+鼠标,model,SteelSeries Prime Wireless
+鼠标,DPI,800
+鼠标,Sensitivity,1.50
+鼠标,eDPI,1200
+鼠标,Zoom Sensitivity,1.00
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,255
+准星设置,Color,4
+准星设置,Blue,255
+准星设置,Green,255
+准星设置,Red,255
+准星设置,Dot,0
+准星设置,Gap,0
+准星设置,Size,4
+准星设置,Style,4
+准星设置,Thickness,1
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,1
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,0
+视频设置,Resolution,2560x1440
+视频设置,Aspect Ratio,16:9
+视频设置,Scaling Mode,Native
+视频设置,Brightness,130%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,4x MSAA
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,High
+视频设置,Texture Filtering Mode,Anisotropic 4x
+视频设置,Shader Detail,High
+视频设置,Particle Detail,High
+视频设置,Ambient Occlusion,Medium
+视频设置,High Dynamic Range,Quality
+视频设置,FidelityFX Super Resolution,Disabled (Highest Quality)
+视频设置,NVIDIA Reflex Low Latency,Disabled
+界面 大小,HUD Scale,Unknown
+界面 大小,HUD Color,Unknown
+雷达,Radar Centers The Player,Unknown
+雷达,Radar is Rotating,Unknown
+雷达,Toggle Shape With Scoreboard,Unknown
+雷达,Radar Hud Size,Unknown
+雷达,Radar Map Zoom,Unknown
+展示皮肤,skins,"['★ Butterfly Knife | Doppler Ruby (Factory New)', '★ Specialist Gloves | Crimson Kimono (Field-Tested)', 'StatTrak™ AK-47 | Vulcan (Minimal Wear)', 'M4A4 | Howl (Minimal Wear)', 'AWP | Dragon Lore (Well-Worn)', 'Glock-18 | Fade (Factory New)', 'StatTrak™ USP-S | Neo-Noir (Factory New)', 'Desert Eagle | Blaze (Factory New)']"
+外设,Monitor,Samsung Odyssey G7
+外设,Mouse,SteelSeries Prime Wireless
+外设,Keyboard,SteelSeries Apex Pro TKL (2023)
+外设,Headset,SteelSeries Arctis Nova Pro
+外设,Mousepad,SteelSeries QcK Heavy

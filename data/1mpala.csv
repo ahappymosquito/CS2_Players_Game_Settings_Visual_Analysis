@@ -1,0 +1,60 @@
+设置,选项名称,值
+选手信息,nick,1mpala
+选手信息,Name,Stefan Ailazian
+选手信息,Birthday,"February 27, 1999"
+选手信息,Country,Ukraine
+选手信息,Team,S-Gaming
+鼠标,model,G-Wolves Hati S
+鼠标,DPI,1600
+鼠标,Sensitivity,1.57
+鼠标,eDPI,2512
+鼠标,Zoom Sensitivity,1.00
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,255
+准星设置,Color,1
+准星设置,Blue,50
+准星设置,Green,250
+准星设置,Red,50
+准星设置,Dot,0
+准星设置,Gap,-3
+准星设置,Size,3
+准星设置,Style,4
+准星设置,Thickness,0
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1920x1080
+视频设置,Aspect Ratio,16:9
+视频设置,Scaling Mode,Native
+视频设置,Brightness,Unknown
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Unknown
+视频设置,Wait for Vertical Sync,Unknown
+视频设置,Multisampling Anti-Aliasing Mode,Unknown
+视频设置,Global Shadow Quality,Unknown
+视频设置,Model / Texture Detail,Unknown
+视频设置,Texture Filtering Mode,Unknown
+视频设置,Shader Detail,Unknown
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.85
+界面 大小,HUD Color,Purple
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,No
+雷达,Radar Hud Size,1.3
+雷达,Radar Map Zoom,0.25
+展示皮肤,skins,"['★ Karambit | Fade (Factory New)', '★ Driver Gloves | Imperial Plaid (Minimal Wear)', 'StatTrak™ AK-47 | Bloodsport (Minimal Wear)', 'M4A1-S | Hot Rod (Factory New)', 'AWP | Dragon Lore (Field-Tested)', 'Glock-18 | Moonrise (Factory New)', 'Souvenir USP-S | Royal Blue (Minimal Wear)', 'Desert Eagle | Trigger Discipline (Battle-Scarred)']"
+外设,Monitor,ASUS ROG SWIFT PG259QN
+外设,Mouse,G-Wolves Hati S
+外设,Keyboard,Hator Skyfall TKL PRO Wireless
+外设,Headset,HyperX Cloud Alpha S
+外设,Mousepad,XTEN Control

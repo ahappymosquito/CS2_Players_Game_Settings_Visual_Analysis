@@ -1,0 +1,65 @@
+设置,选项名称,值
+选手信息,nick,MODDII
+选手信息,Name,Andreas Fridh
+选手信息,Birthday,"July 18, 1989"
+选手信息,Country,Sweden
+选手信息,Team,Retired
+鼠标,model,ZOWIE EC1-A
+鼠标,DPI,400
+鼠标,Sensitivity,2.20
+鼠标,eDPI,880
+鼠标,Zoom Sensitivity,1.00
+鼠标,Hz,500
+鼠标,Windows Sensitivity,6
+准星设置,Style,5
+准星设置,Follow Recoil,Unknown
+准星设置,Dot,0
+准星设置,Length,2
+准星设置,Thickness,1
+准星设置,Gap,-4
+准星设置,Outline,0
+准星设置,Outlinethickness,Unknown
+准星设置,Color,1
+准星设置,Red,Unknown
+准星设置,Green,Unknown
+准星设置,Blue,Unknown
+准星设置,Alpha,Unknown
+准星设置,Alpha Value,1
+准星设置,T Style,Unknown
+准星设置,Deployed Weapon Gap,Unknown
+准星设置,Sniper Width,Unknown
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,800x600
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Black Bars
+视频设置,Brightness,Unknown
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Unknown
+视频设置,Wait for Vertical Sync,Unknown
+视频设置,Multisampling Anti-Aliasing Mode,Unknown
+视频设置,Global Shadow Quality,Unknown
+视频设置,Model / Texture Detail,Unknown
+视频设置,Texture Filtering Mode,Unknown
+视频设置,Shader Detail,Unknown
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,Unknown
+界面 大小,HUD Color,Unknown
+雷达,Radar Centers The Player,Unknown
+雷达,Radar is Rotating,Unknown
+雷达,Toggle Shape With Scoreboard,Unknown
+雷达,Radar Hud Size,Unknown
+雷达,Radar Map Zoom,Unknown
+展示皮肤,skins,"['AK-47 | Safari Mesh (Field-Tested)', 'AWP | Phobos (Factory New)', 'Glock-18 | Bunsen Burner (Field-Tested)', 'USP-S | Blood Tiger (Factory New)', 'Desert Eagle | Midnight Storm (Well-Worn)']"
+外设,Monitor,ZOWIE XL2546
+外设,Mouse,ZOWIE EC1-A
+外设,Keyboard,Xtrfy K2 RGB
+外设,Headset,Sennheiser GAME ZERO
+外设,Mousepad,ZOWIE G-SR-SE Blue

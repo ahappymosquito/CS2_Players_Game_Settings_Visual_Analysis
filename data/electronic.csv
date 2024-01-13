@@ -1,0 +1,75 @@
+设置,选项名称,值
+选手信息,nick,electronic
+选手信息,Name,Denis Sharipov
+选手信息,Birthday,"September 2, 1998"
+选手信息,Country,Russia
+选手信息,Team,Cloud9
+鼠标,model,Razer DeathAdder V3 Pro Faker Edition
+鼠标,DPI,400
+鼠标,Sensitivity,2.2
+鼠标,eDPI,880
+鼠标,Zoom Sensitivity,1.05
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,250
+准星设置,Color,4
+准星设置,Blue,255
+准星设置,Green,255
+准星设置,Red,0
+准星设置,Dot,1
+准星设置,Gap,-3
+准星设置,Size,1
+准星设置,Style,4
+准星设置,Thickness,0
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1440x1080
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,110%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,None
+视频设置,Global Shadow Quality,Unknown
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Bilinear
+视频设置,Shader Detail,Low
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.95
+界面 大小,HUD Color,Yellow
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1.125015
+雷达,Radar Map Zoom,0.25
+展示皮肤,skins,"['★ StatTrak™ Talon Knife | Doppler Sapphire (Factory New)', '★ Moto Gloves | Spearmint (Factory New)', 'AK-47 | X-Ray (Minimal Wear)', 'M4A1-S | Imminent Danger (Field-Tested)', 'AWP | Graphite (Factory New)', 'USP-S | Whiteout (Factory New)', 'StatTrak™ Glock-18 | Dragon Tattoo (Factory New)', 'Desert Eagle | Blaze (Factory New)']"
+外设,Monitor,ZOWIE XL2566K
+外设,Mouse,Razer DeathAdder V3 Pro Faker Edition
+外设,Keyboard,Xtrfy K4 TKL RGB Retro
+外设,Headset,HyperX Cloud II Pink
+外设,Mousepad,VAXEE PA Pcute
+外设,Earphones,Logitech G333 White
+显示器设置,DyAc,Premium
+显示器设置,Black eQualizer,4
+显示器设置,Color Vibrance,14
+显示器设置,Low Blue Light,0
+显示器设置,Picture Mode,Gamer 1
+显示器设置,Brightness,90
+显示器设置,Contrast,60
+显示器设置,Sharpness,7
+显示器设置,Gamma,Gamma 3
+显示器设置,Color Temperature,User Define
+显示器设置,Red,100
+显示器设置,Green,100
+显示器设置,Blue,100
+显示器设置,AMA,Premium

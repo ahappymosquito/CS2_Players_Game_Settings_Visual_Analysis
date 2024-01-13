@@ -1,0 +1,60 @@
+设置,选项名称,值
+选手信息,nick,SELLTER
+选手信息,Name,Ivan Miroshnikov
+选手信息,Birthday,"February 4, 2003"
+选手信息,Country,Russia
+选手信息,Team,Aurora
+鼠标,model,Logitech G Pro X Superlight 2 White
+鼠标,DPI,400
+鼠标,Sensitivity,1.35
+鼠标,eDPI,540
+鼠标,Zoom Sensitivity,1
+鼠标,Hz,2000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,0
+准星设置,Alpha,255
+准星设置,Color,5
+准星设置,Blue,144
+准星设置,Green,195
+准星设置,Red,27
+准星设置,Dot,0
+准星设置,Gap,-3
+准星设置,Size,1.5
+准星设置,Style,4
+准星设置,Thickness,0
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1280x1024
+视频设置,Aspect Ratio,5:4
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,130%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,None
+视频设置,Global Shadow Quality,Unknown
+视频设置,Model / Texture Detail,Low
+视频设置,Texture Filtering Mode,Anisotropic 16x
+视频设置,Shader Detail,Unknown
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,0.833
+界面 大小,HUD Color,Bright White
+雷达,Radar Centers The Player,No
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,No
+雷达,Radar Hud Size,1.155
+雷达,Radar Map Zoom,0.26
+展示皮肤,skins,"['★ M9 Bayonet | Lore (Factory New)', '★ Sport Gloves | Amphibious (Field-Tested)', 'Souvenir AK-47 | Gold Arabesque (Field-Tested)', 'StatTrak™ M4A1-S | Mecha Industries (Minimal Wear)', 'Glock-18 | Water Elemental (Minimal Wear)', 'USP-S | Kill Confirmed (Minimal Wear)', 'Desert Eagle | Printstream (Field-Tested)']"
+外设,Monitor,ASUS ROG SWIFT PG259QN
+外设,Mouse,Logitech G Pro X Superlight 2 White
+外设,Keyboard,Logitech G713
+外设,Headset,Logitech G Pro X Headset
+外设,Mousepad,ZOWIE G-SR-SE Rouge

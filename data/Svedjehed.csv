@@ -1,0 +1,65 @@
+设置,选项名称,值
+选手信息,nick,Svedjehed
+选手信息,Name,Leo Svedjehed
+选手信息,Birthday,"July 22, 2003"
+选手信息,Country,Sweden
+选手信息,Team,Copenhagen Wolves
+鼠标,model,ZOWIE EC2-CW
+鼠标,DPI,800
+鼠标,Sensitivity,1
+鼠标,eDPI,800
+鼠标,Zoom Sensitivity,1
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Style,4
+准星设置,Follow Recoil,Unknown
+准星设置,Dot,0
+准星设置,Length,1
+准星设置,Thickness,1
+准星设置,Gap,-4
+准星设置,Outline,0
+准星设置,Outlinethickness,Unknown
+准星设置,Color,5
+准星设置,Red,0
+准星设置,Green,255
+准星设置,Blue,192
+准星设置,Alpha,Unknown
+准星设置,Alpha Value,255
+准星设置,T Style,Unknown
+准星设置,Deployed Weapon Gap,Unknown
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1280x960
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,130%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Unknown
+视频设置,Wait for Vertical Sync,Unknown
+视频设置,Multisampling Anti-Aliasing Mode,Unknown
+视频设置,Global Shadow Quality,Unknown
+视频设置,Model / Texture Detail,Unknown
+视频设置,Texture Filtering Mode,Unknown
+视频设置,Shader Detail,Unknown
+视频设置,Particle Detail,Unknown
+视频设置,Ambient Occlusion,Unknown
+视频设置,High Dynamic Range,Unknown
+视频设置,FidelityFX Super Resolution,Unknown
+视频设置,NVIDIA Reflex Low Latency,Unknown
+界面 大小,HUD Scale,Unknown
+界面 大小,HUD Color,Unknown
+雷达,Radar Centers The Player,Unknown
+雷达,Radar is Rotating,Unknown
+雷达,Toggle Shape With Scoreboard,Unknown
+雷达,Radar Hud Size,Unknown
+雷达,Radar Map Zoom,Unknown
+展示皮肤,skins,"['★ Butterfly Knife | Fade (Factory New)', '★ Specialist Gloves | Crimson Kimono (Field-Tested)', 'StatTrak™ AK-47 | Bloodsport (Field-Tested)', 'StatTrak™ M4A1-S | Cyrex (Minimal Wear)']"
+外设,Monitor,ZOWIE XL2566K
+外设,Mouse,ZOWIE EC2-CW
+外设,Keyboard,Razer Huntsman V3 Pro TKL
+外设,Headset,Razer BlackShark V2 Pro
+外设,Mousepad,Razer Gigantus V2

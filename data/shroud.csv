@@ -1,0 +1,61 @@
+设置,选项名称,值
+选手信息,nick,shroud
+选手信息,Name,Michael Grzesiek
+选手信息,Birthday,"June 2, 1994"
+选手信息,Country,Canada
+选手信息,Team,Content Creator
+鼠标,model,Logitech G303 Shroud Edition
+鼠标,DPI,800
+鼠标,Sensitivity,1.2
+鼠标,eDPI,960
+鼠标,Zoom Sensitivity,1
+鼠标,Hz,1000
+鼠标,Windows Sensitivity,6
+准星设置,Drawoutline,1
+准星设置,Alpha,255
+准星设置,Color,3
+准星设置,Blue,250
+准星设置,Green,250
+准星设置,Red,250
+准星设置,Dot,0
+准星设置,Gap,-2
+准星设置,Size,5
+准星设置,Style,1
+准星设置,Thickness,1.5
+准星设置,Sniper Width,2
+准星设置,Fixed Gap,-2.5
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,1
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,2560x1440
+视频设置,Aspect Ratio,16:9
+视频设置,Scaling Mode,Native
+视频设置,Brightness,100%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Enabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,8x MSAA
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,High
+视频设置,Texture Filtering Mode,Trilinear
+视频设置,Shader Detail,High
+视频设置,Particle Detail,Very High
+视频设置,Ambient Occlusion,High
+视频设置,High Dynamic Range,Quality
+视频设置,FidelityFX Super Resolution,Disabled (Highest Quality)
+视频设置,NVIDIA Reflex Low Latency,Disabled
+界面 大小,HUD Scale,0.95
+界面 大小,HUD Color,White
+雷达,Radar Centers The Player,No
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,No
+雷达,Radar Hud Size,1.005
+雷达,Radar Map Zoom,0.5
+展示皮肤,skins,"['★ Karambit | Marble Fade (Factory New)', '★ Sport Gloves | Pandora’s Box (Minimal Wear)', 'StatTrak™ AK-47 | Fire Serpent (Minimal Wear)', 'M4A4 | Howl (Minimal Wear)']"
+外设,Monitor,ASUS ROG PG27AQDM
+外设,Mouse,Logitech G303 Shroud Edition
+外设,Keyboard,Logitech G Pro X TKL Keyboard Black
+外设,Headset,Logitech G PRO X 2 Headset Black
+外设,Mousepad,Logitech G840 Shroud Edition

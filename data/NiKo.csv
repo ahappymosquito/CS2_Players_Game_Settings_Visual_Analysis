@@ -1,0 +1,79 @@
+设置,选项名称,值
+选手信息,nick,NiKo
+选手信息,Name,Nikola Kovač
+选手信息,Birthday,"February 16, 1997"
+选手信息,Country,Bosnia & Herzegovina
+选手信息,Team,G2 Esports
+鼠标,model,Logitech G Pro X Superlight 2 White
+鼠标,DPI,800
+鼠标,Sensitivity,0.69
+鼠标,eDPI,552
+鼠标,Zoom Sensitivity,1
+鼠标,Hz,2000
+鼠标,Windows Sensitivity,6
+准星设置,Style,Classic Static
+准星设置,Follow Recoil,No
+准星设置,Dot,Yes
+准星设置,Length,1
+准星设置,Thickness,1
+准星设置,Gap,-9
+准星设置,Outline,No
+准星设置,Color,Custom
+准星设置,Red,0
+准星设置,Green,255
+准星设置,Blue,145
+准星设置,Alpha,Yes
+准星设置,Alpha Value,255
+准星设置,T Style,No
+准星设置,Deployed Weapon Gap,No
+准星设置,Sniper Width,1
+持枪 视角,FOV,68
+持枪 视角,Offset X,2.5
+持枪 视角,Offset Y,0
+持枪 视角,Offset Z,-1.5
+持枪 视角,Presetpos,3
+视频设置,Resolution,1152x864
+视频设置,Aspect Ratio,4:3
+视频设置,Scaling Mode,Stretched
+视频设置,Brightness,95%
+视频设置,Display Mode,Fullscreen
+视频设置,Boost Player Contrast,Disabled
+视频设置,Wait for Vertical Sync,Disabled
+视频设置,Multisampling Anti-Aliasing Mode,8x MSAA
+视频设置,Global Shadow Quality,High
+视频设置,Model / Texture Detail,Medium
+视频设置,Texture Filtering Mode,Anisotropic 4x
+视频设置,Shader Detail,High
+视频设置,Particle Detail,Low
+视频设置,Ambient Occlusion,High
+视频设置,High Dynamic Range,Quality
+视频设置,FidelityFX Super Resolution,Disabled (Highest Quality)
+视频设置,NVIDIA Reflex Low Latency,Enabled + Boost
+界面 大小,HUD Scale,0.95
+界面 大小,HUD Color,Aqua
+雷达,Radar Centers The Player,Yes
+雷达,Radar is Rotating,Yes
+雷达,Toggle Shape With Scoreboard,Yes
+雷达,Radar Hud Size,1
+雷达,Radar Map Zoom,0.35
+展示皮肤,skins,"['★ Talon Knife | Case Hardened (Field-Tested)', '★ Sport Gloves | Superconductor (Minimal Wear)', 'StatTrak™ AK-47 | Vulcan (Field-Tested)', 'Souvenir M4A4 | Radiation Hazard (Well-Worn)', 'AWP | Gungnir (Factory New)', 'Glock-18 | Fade (Factory New)', 'StatTrak™ USP-S | Printstream (Minimal Wear)', 'Desert Eagle | Blaze (Factory New)']"
+外设,Monitor,ZOWIE XL2566K
+外设,Mouse,Logitech G Pro X Superlight 2 White
+外设,Keyboard,Logitech G Pro X TKL Keyboard Magenta (GX Brown Tactile)
+外设,Headset,Logitech G PRO X 2 Headset White
+外设,Mousepad,Endgame Gear EM-C Square
+外设,Earphones,KZ ZS10 Pro X
+显示器设置,DyAc,Off
+显示器设置,Black eQualizer,20
+显示器设置,Color Vibrance,9
+显示器设置,Low Blue Light,0
+显示器设置,Picture Mode,Gamer 2
+显示器设置,Brightness,63
+显示器设置,Contrast,50
+显示器设置,Sharpness,7
+显示器设置,Gamma,Gamma 3
+显示器设置,Color Temperature,User Define
+显示器设置,Red,89
+显示器设置,Green,90
+显示器设置,Blue,100
+显示器设置,AMA,High

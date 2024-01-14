@@ -1,4 +1,6 @@
+import copy
 import csv
+import json
 import time
 
 import requests
@@ -56,6 +58,7 @@ def get_players_url():
 
 
 def save_players_data(players_url):
+    data_p = []
     for url in players_url:
 
         res = requests.get(url, headers=headers)
@@ -126,7 +129,6 @@ def save_players_data(players_url):
             for la, da in zip(label, data):
                 video[la.text.strip()] = da.text.strip()
         # 高级视频设置
-
         advanced_video = bs.find(id="advanced_video")
 
         rows = advanced_video.find('table').find_all('tr')
@@ -162,6 +164,7 @@ def save_players_data(players_url):
         # print(radar)
 
         # 皮肤
+        skins = {}
         if bs.find(id="cs2_skins"):
             rows = bs.find(id="cs2_skins").find_all('h4')
 
@@ -169,6 +172,7 @@ def save_players_data(players_url):
             # print(skins)
 
         # 外设
+        gear = {}
         if bs.find(id="gear"):
             device = bs.find(id="gear").find_all(class_="cta-box__tag cta-box__tag--top-right")
             rows = bs.find(id="gear").find_all('h4')
@@ -201,33 +205,52 @@ def save_players_data(players_url):
 
         ####################################################################
         # info mouse crosshair viewmodel video hud radar skins gear game_set
-        csv_file_path = 'data/{}.csv'.format(info['nick'])
-
-        with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
-            csv_writer = csv.writer(csv_file)
-
-            # 写入表头（第一行）
-            csv_writer.writerow(['设置', '选项名称', '值'])
-
-            # 遍历并写入数据
-            def write_data(setting, parameters):
-                for parameter, value in parameters.items():
-                    csv_writer.writerow([setting, parameter, value])
-
-            write_data('选手信息', info)
-            write_data('鼠标', mouse)
-            write_data('准星设置', crosshair)
-            write_data('持枪 视角', viewmodel)
-            write_data('视频设置', video)
-            write_data('界面 大小', hud)
-            write_data('雷达', radar)
-            write_data('展示皮肤', skins)
-            write_data('外设', gear)
-            write_data('显示器设置', game_set)
-
-        print(f'数据成功保存在{csv_file_path}')
+        data_temp = {
+            "info": info,
+            "mouse": mouse,
+            "crosshair": crosshair,
+            "viewmodel": viewmodel,
+            "video": video,
+            "hud": hud,
+            "radar": radar,
+            "skins": skins,
+            "gear": gear,
+            "game_set": game_set
+        }
+        data_p.append(data_temp)
+        # print(data_p)
+        # csv_file_path = 'data/{}.csv'.format(info['nick'])
+        #
+        # with open(csv_file_path, 'w', newline='', encoding='utf-8') as csv_file:
+        #     csv_writer = csv.writer(csv_file)
+        #
+        #     # 写入表头（第一行）
+        #     csv_writer.writerow(['设置', '选项名称', '值'])
+        #
+        #     # 遍历并写入数据
+        #     def write_data(setting, parameters):
+        #         for parameter, value in parameters.items():
+        #             csv_writer.writerow([setting, parameter, value])
+        #
+        #     write_data('选手信息', info)
+        #     write_data('鼠标', mouse)
+        #     write_data('准星设置', crosshair)
+        #     write_data('持枪 视角', viewmodel)
+        #     write_data('视频设置', video)
+        #     write_data('界面 大小', hud)
+        #     write_data('雷达', radar)
+        #     write_data('展示皮肤', skins)
+        #     write_data('外设', gear)
+        #     write_data('显示器设置', game_set)
+        #
+        # print(f'数据成功保存在{csv_file_path}')
 
         time.sleep(0.2)
+
+    print(data_p)
+    with open("data.json", 'w') as json_file:
+        json.dump(data_p, json_file, indent=2)
+        print("done!")
 
 
 if __name__ == "__main__":

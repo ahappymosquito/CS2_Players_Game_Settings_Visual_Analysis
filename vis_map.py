@@ -31,7 +31,7 @@ world.plot(column='Player_Count', ax=ax, legend=True,
            legend_kwds={'label': "Number of Players by Country",
                         'orientation': "horizontal"}, cmap='coolwarm')
 # plt.show()
-
+plt.savefig('pic/Number of Players by Country')
 
 # 年龄散点图
 ages = []
@@ -53,6 +53,8 @@ plt.xlabel('Players Index')
 plt.ylabel('Age')
 
 # plt.show()
+plt.savefig('pic/Players Age Distribution')
+
 
 # 鼠标edpi范围
 edpi_values = []
@@ -75,7 +77,7 @@ plt.xlabel('Player Index')
 plt.ylabel('eDPI')
 
 # plt.show()
-
+plt.savefig('pic/eDPI Distribution')
 
 styles = {}
 
@@ -93,7 +95,7 @@ plt.pie(styles.values(), labels=styles.keys(), autopct='%1.1f%%', startangle=90,
 plt.title('Crosshair Style Distribution')
 
 # plt.show()
-
+plt.savefig('pic/Crosshair Style Distribution')
 
 colors = {}
 
@@ -125,8 +127,8 @@ plt.title('Crosshair Color Distribution')
 circle = plt.Circle((0, 0), 1, color='black', fc='none', linewidth=3.25)
 plt.gca().add_artist(circle)
 
-plt.show()
-
+# plt.show()
+plt.savefig('pic/Crosshair Color Distribution')
 
 
 # 统计每个视频设置选项中最多的选择
@@ -174,4 +176,6 @@ plt.xlabel('Video Setting Options')
 plt.ylabel('Percentage')
 plt.ylim(0, 100)
 plt.xticks(rotation=45, ha='right')
-plt.show()
+
+# plt.show()
+plt.savefig('pic/Most Chosen Video Settings and their Percentages')
